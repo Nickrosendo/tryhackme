@@ -1,0 +1,1 @@
+# Nmap 7.92 scan initiated Tue May  3 09:39:36 2022 as: nmap -A -p1-56000 -oN ./scan-3.txt 10.10.5.134
